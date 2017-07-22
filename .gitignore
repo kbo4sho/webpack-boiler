@@ -10,3 +10,7 @@ node_modules/
 jspm_packages/
 
 
+# Dist
+dist
+
+
