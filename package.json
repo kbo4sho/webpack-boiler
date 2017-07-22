@@ -1,0 +1,21 @@
+{
+  "name": "webpack_boiler",
+  "version": "1.0.0",
+  "description": "Boilerplate for building webpack applications",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server --port=8000",
+    "webpack": "webpack",
+    "webpack-watch": "webpack -w"
+  },
+  "author": "Kevin Bolander",
+  "license": "",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+  }
+}
